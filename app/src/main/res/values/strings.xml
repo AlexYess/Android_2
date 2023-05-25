@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hello World!</string>
+    <string name="Constr">Constr layout</string>
+    <string name="button">Change txt</string>
+    <string name="go">Linear layout</string>
+    <string name="Input">Input</string>
+    <string name="Revative">Relative layout</string>
+</resources>
